@@ -1,7 +1,7 @@
 <!-- 🔥 ULTRA ELITE RISU README -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/risusolutions-hub/risusolutions-hub/main/assets/banner.png" />
+  <img src="/banner.png" />
 </p>
 
 <h1 align="center">RISU SOLUTIONS</h1>
